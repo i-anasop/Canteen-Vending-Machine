@@ -1,13 +1,14 @@
+# Restaurant Management System (C++)  
+
 ## 📌 Overview  
-This is a Canteen Vending Machine program built in C++. It allows users to:  
+This is a **Restaurant Management System** built in **C++**. It allows users to:  
 - Browse food categories  
-- Select food items  
-- View different pricing  
+- Select food items   
 - Manage inventory and stock  
 - Apply discounts  
 - Process payments  
 
-Designed using functions, loops, arrays, pointers, and other fundamental C++ concepts.  
+Designed using **functions, loops, arrays, pointers, and other fundamental C++ concepts**.  
 
 ---
 
@@ -22,6 +23,7 @@ Designed using functions, loops, arrays, pointers, and other fundamental C++ con
 
 ## 📂 Features  
 ✔ **Food Categories & Items** – Organized menu with different food types  
+✔ **Dynamic Pricing** – Prices can be updated anytime  
 ✔ **Stock Management** – Tracks available stock for each item  
 ✔ **Inventory Management** – Ensures items remain available  
 ✔ **Discount System** – Applies discounts to specific items or orders  
@@ -34,7 +36,6 @@ Designed using functions, loops, arrays, pointers, and other fundamental C++ con
 2. Open **Dev-C++** (or any C++ compiler).  
 3. Load the `.cpp` file into the compiler.  
 4. **Compile and Run** the program.  
-5. Follow the on-screen instructions to use the vending machine.  
+5. Follow the on-screen instructions to use the restaurant management system.  
 
 ---
-
